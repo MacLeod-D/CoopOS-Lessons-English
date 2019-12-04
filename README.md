@@ -62,4 +62,4 @@ Installation:
 The PDF can be read directly.
 The demos should be unzipped directly into the Arduino-Sketches folder.
 
-https://HelmutWeber.de
+http://HelmutWeber.de
