@@ -4,28 +4,28 @@ This is the **fast** and **universal** CoopOS-version **without** stackchange  f
 
                       
 An extensive course, which starts very simple
-                **Fast and powerful cooperative multitasking for Arduino-IDE**
-                **8 Lessons with all sources** 
-                **For Beginners und Professionals gleichermaßen**
-                **Complete Sources**
-                **60 Pages Documentation**
-              
-              
-On more than 60 pages of PDF and 8 demo sources CoopOS , a tool for cooperative multitasking, is presented in great detail and comprehensible for beginners.
 
-Cooperative multitasking does not need its own stack for each task. Therefore, it is so compact that it works even on an AtTiny45!
+   **Fast and powerful cooperative multitasking for Arduino-IDE**
+   **8 Lessons with all sources** 
+   **For Beginners und Professionals gleichermaßen**
+   **Complete Sources**
+   **60 Pages Documentation**
+              
+              
+On more than **60 pages** of PDF-Documentation and 8 Demo sources **CoopOS** - a tool for cooperative multitasking - is presented in great detail and comprehensible for beginners.
+
+Cooperative multitasking does not need its own stack for each task. Therefore, it is so compact that it works even on an **AtTiny45**!
 
 Since the stack areas and thus the processor registers are not switched, CoopOS is extremely fast.
 
 In addition, it contains many options that are otherwise only found on RTOSs:
 
-while (1) {...}
-
-taskSwitch
-taskDelay
-taskStop
-taskResume
-taskWaitSignal
+            * while (1) {...}
+            * taskSwitch
+            * taskDelay
+            * taskStop
+            * taskResume
+            taskWaitSignal
 taskSetSignal (also from interrupt routines)
 taskWaitResource
 taskFreeResource
