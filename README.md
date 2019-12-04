@@ -3,11 +3,14 @@
                 
    Links:
    
-   Same in German:                     https://github.com/MacLeod-D/CoopOS-Kurs-Deutsch
+   Same in German:                     
+      https://github.com/MacLeod-D/CoopOS-Kurs-Deutsch
    
-   With Stackframes (Arduino):         https://github.com/MacLeod-D/Arduino-Multitasking-CoopOS
+   With Stackframes (Arduino):         
+      https://github.com/MacLeod-D/Arduino-Multitasking-CoopOS
    
-   With Stackframes (ESP8266):         https://github.com/MacLeod-D/ESP8266-Multitasking-CoopOS
+   With Stackframes and WebServer (ESP8266):         
+      https://github.com/MacLeod-D/ESP8266-Multitasking-CoopOS
                 
                 
     
@@ -22,7 +25,7 @@ An extensive course, which starts very simple
    
    **8 Lessons with all sources** 
    
-   **For Beginners und Professionals gleichermaßen**
+   **For Beginners und Professionals too**
    
    **Complete Sources**
    
