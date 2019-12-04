@@ -32,7 +32,7 @@ An extensive course, which starts very simple
    **60 Pages Documentation**
               
               
-On more than **60 pages** of PDF-Documentation and 8 Demo sources **CoopOS** - a tool for cooperative multitasking - is presented in great detail and comprehensible for beginners.
+On more than 60 pages of PDF-Documentation and 8 Demo sources **CoopOS** - a tool for cooperative multitasking - is presented in great detail and comprehensible for beginners.
 
 Cooperative multitasking does not need its own stack for each task. Therefore, it is so compact that it works even on an **AtTiny45**!
 
