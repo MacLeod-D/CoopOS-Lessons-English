@@ -6,10 +6,10 @@ This is the **fast** and **universal** CoopOS-version **without** stackchange  f
                          More than 60 Pages Documentation
                          All sources**
 
-             **This is the fast and universal CoopOS version for all processors!**
+            
 
-                 **Fast and powerful cooperative multitasking for Arduino IDE**
-                            **Lessons in English with all sources**
+                        **Arduino-IDE**
+                    Lessons in English with all sources
 
                   **CoopOS**
 An extensive course, which starts very simple
