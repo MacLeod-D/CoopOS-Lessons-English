@@ -2,14 +2,17 @@
 
                 
    Links:
+   
    Same in German:                     https://github.com/MacLeod-D/CoopOS-Kurs-Deutsch
+   
    With Stackframes (Arduino):         https://github.com/MacLeod-D/Arduino-Multitasking-CoopOS
+   
    With Stackframes (ESP8266):         https://github.com/MacLeod-D/ESP8266-Multitasking-CoopOS
                 
                 
                 
 
-### This is the fast* and universal CoopOS-version without stackchange  for ALL CPUs -in English
+#### This is the fast* and universal CoopOS-version without stackchange  for ALL CPUs -in English
 
                       
 An extensive course, which starts very simple
